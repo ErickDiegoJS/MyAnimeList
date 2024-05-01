@@ -1,10 +1,8 @@
 body.ownlist {
   background-image: url('93b95fb3-5fb6-43e7-97ac-81d1709e7f15.jpg');
 }
-#mal_control_strip td div{
-    margin: 3px 0;
-    color: #ffffff;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+mal_control_strip td div{
+
     font-size: 20px;
-    font-variant: normal;
+    
 }
